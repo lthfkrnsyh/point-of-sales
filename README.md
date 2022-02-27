@@ -34,9 +34,6 @@ Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola 
 git clone https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales.git
 ```
 
-### Download ZIP
-[Link](https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales/archive/refs/heads/main.zip)
-
 ### Setup Aplikasi
 Jalankan perintah 
 ```bash
@@ -83,11 +80,6 @@ Menjalankan aplikasi
 ```bash
 php artisan serve
 ```
-
-## Link Tutorial
-
-- [Youtube](https://www.youtube.com/playlist?list=PLaN75JfoGz0Okf9f_7GbGM5IFaLXWx-_C)
-- [W2Learn](https://www.w2learn.com)
 
 ## License
 
